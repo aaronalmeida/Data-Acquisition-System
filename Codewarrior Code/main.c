@@ -1,7 +1,5 @@
 //Aaron Almeida
-//400110483
-//almeia7
-//April 5th 2018
+//April 5th 2019
 
 
 /*Include*/
@@ -48,16 +46,7 @@ void OutCRLF(void){   //print newline character
 
   unsigned short degree;
 
-  
-     
-  
-  
-  
-  
-  
-  
-     
-     
+ 
 
 
 void main(void) {		
@@ -73,14 +62,7 @@ void main(void) {
    
   
     PTJ = 0x00;
-  
-  
-  
-  
-  
-  
-     
-     
+
          
   TSCR1 = 0x90;    //Timer System Control Register 1
                     // TSCR1[7] = TEN:  Timer Enable (0-disable, 1-enable)
